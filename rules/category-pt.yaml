@@ -113,28 +113,28 @@ payload:
     - +.dmhy.best
     - +.dmhy.org
     
-    ;custom
-    - +discfan.net
-    - +agsvpt.com
-    - +agsvpt.cn
-    - +azusa.wiki
-    - +zimiao.icu
-    - +oshen.win
-    - +joyhd.net
-    - +star-space.net
-    - +creditracker.net
-    - +fsm-us.eu.org
-    - +kamept.com
-    - +pthome.org
-    - +rousipt.com
-    - +pttime.online
+    #custom
+    - +.discfan.net
+    - +.agsvpt.com
+    - +.agsvpt.cn
+    - +.azusa.wiki
+    - +.zimiao.icu
+    - +.oshen.win
+    - +.joyhd.net
+    - +.star-space.net
+    - +.creditracker.net
+    - +.fsm-us.eu.org
+    - +.kamept.com
+    - +.pthome.org
+    - +.rousipt.com
+    - +.pttime.online
     
-    ;keywords
-    ;announce
-    ;torrent
-    ;smtp
-    
-    ;pttracker
-    ;cinefiles.info
-    ;azurewebsites.net
-    ;agsvpt.trackers.work
+    #keywords
+    #announce
+    #torrent
+    #smtp
+    #
+    #pttracker
+    #cinefiles.info
+    #azurewebsites.net
+    #agsvpt.trackers.work
