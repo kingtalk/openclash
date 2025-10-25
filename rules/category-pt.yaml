@@ -113,7 +113,7 @@ payload:
     - +.dmhy.best
     - +.dmhy.org
     
-    #custom
+    ;custom
     - +discfan.net
     - +agsvpt.com
     - +agsvpt.cn
@@ -129,12 +129,12 @@ payload:
     - +rousipt.com
     - +pttime.online
     
-    #keywords
-    #announce
-    #torrent
-    #smtp
-    #
-    ##pttracker
-    #cinefiles.info
-    #azurewebsites.net
-    #agsvpt.trackers.work
+    ;keywords
+    ;announce
+    ;torrent
+    ;smtp
+    
+    ;pttracker
+    ;cinefiles.info
+    ;azurewebsites.net
+    ;agsvpt.trackers.work
