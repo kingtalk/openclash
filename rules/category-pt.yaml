@@ -112,6 +112,7 @@ payload:
     - +.mt.cc
     - +.dmhy.best
     - +.dmhy.org
+    #custom
     - +.discfan.net
     - +.agsvpt.com
     - +.agsvpt.cn
@@ -126,3 +127,13 @@ payload:
     - +.pthome.org
     - +.rousipt.com
     - +.pttime.online
+    
+    #pttracker
+    - +.cinefiles.info
+    - +.azurewebsites.net
+    - +.agsvpt.trackers.work
+    
+    #keywords
+    - +/announce.+
+    - +/torrent/+
+    - +.smtp.+
