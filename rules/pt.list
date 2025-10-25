@@ -140,9 +140,9 @@ DOMAIN-SUFFIX,
 
 
 #keywords
-DOMAIN-KEYWORD,announce
-DOMAIN-KEYWORD,torrent
-DOMAIN-SUFFIX,smtp
+#DOMAIN-KEYWORD,announce
+#DOMAIN-KEYWORD,torrent
+#DOMAIN-SUFFIX,smtp
 
 #pttracker
 DOMAIN-SUFFIX,cinefiles.info
