@@ -1,78 +1,78 @@
-#🔰节点选择
-#  - DOMAIN,  - DOMAIN-SUFFIX,  - DOMAIN-KEYWORD,🔰节点选择
+#🔰 节点选择
+#  - DOMAIN,  - DOMAIN-SUFFIX,  - DOMAIN-KEYWORD,🔰 节点选择
 +rules:
-  - DOMAIN,openaiapi-site.azureedge.net,🔰节点选择
-  - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,🔰节点选择
-  - DOMAIN,openaicomproductionae4b.blob.core.windows.net,🔰节点选择
-  - DOMAIN,production-openaicom-storage.azureedge.net,🔰节点选择
-  - DOMAIN,servd-anthropic-website.b-cdn.net,🔰节点选择
-  - DOMAIN,ai.google.dev,🔰节点选择
-  - DOMAIN,alkalicore-pa.clients6.google.com,🔰节点选择
-  - DOMAIN,alkalimakersuite-pa.clients6.google.com,🔰节点选择
-  - DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com,🔰节点选择
-  - DOMAIN,pplx-res.cloudinary.com,🔰节点选择
-  - DOMAIN,o33249.ingest.sentry.io,🔰节点选择
-  - DOMAIN,openaicom.imgix.net,🔰节点选择
-  - DOMAIN,browser-intake-datadoghq.com,🔰节点选择
-  - DOMAIN-SUFFIX,claudemcpclient.com,🔰节点选择
-  - DOMAIN-SUFFIX,perplexity.ai,🔰节点选择
-  - DOMAIN-SUFFIX,coderabbit.ai,🔰节点选择
-  - DOMAIN-SUFFIX,chutes.ai,🔰节点选择
-  - DOMAIN-SUFFIX,cursor-cdn.com,🔰节点选择
-  - DOMAIN-SUFFIX,diabrowser.com,🔰节点选择
-  - DOMAIN-SUFFIX,dify.ai,🔰节点选择
-  - DOMAIN-SUFFIX,meta.ai,🔰节点选择
-  - DOMAIN-SUFFIX,mistral.ai,🔰节点选择
-  - DOMAIN-SUFFIX,openart.ai,🔰节点选择
-  - DOMAIN-SUFFIX,openrouter.ai,🔰节点选择
-  - DOMAIN-SUFFIX,chatgpt.com,🔰节点选择
-  - DOMAIN-SUFFIX,chat.com,🔰节点选择
-  - DOMAIN-SUFFIX,oaistatic.com,🔰节点选择
-  - DOMAIN-SUFFIX,oaiusercontent.com,🔰节点选择
-  - DOMAIN-SUFFIX,openai.com,🔰节点选择
-  - DOMAIN-SUFFIX,sora.com,🔰节点选择
-  - DOMAIN-SUFFIX,x.ai,🔰节点选择
-  - DOMAIN-SUFFIX,grok.com,🔰节点选择
-  - DOMAIN-SUFFIX,pplx.ai,🔰节点选择
-  - DOMAIN-SUFFIX,perplexity.com,🔰节点选择
-  - DOMAIN-SUFFIX,cerebras.ai,🔰节点选择
-  - DOMAIN-SUFFIX,huggingface.co,🔰节点选择
-  - DOMAIN-SUFFIX,hf.co,🔰节点选择
-  - DOMAIN-SUFFIX,poe.com,🔰节点选择
-  - DOMAIN-SUFFIX,poecdn.net,🔰节点选择
-  - DOMAIN-SUFFIX,anthropic.com,🔰节点选择
-  - DOMAIN-SUFFIX,claude.ai,🔰节点选择
-  - DOMAIN-SUFFIX,claude.com,🔰节点选择
-  - DOMAIN-SUFFIX,claudeusercontent.com,🔰节点选择
-  - DOMAIN-SUFFIX,jasper.ai,🔰节点选择
-  - DOMAIN-SUFFIX,clipdrop.co,🔰节点选择
-  - DOMAIN-SUFFIX,devin.ai,🔰节点选择
-  - DOMAIN-SUFFIX,cursor.com,🔰节点选择
-  - DOMAIN-SUFFIX,cursor.sh,🔰节点选择
-  - DOMAIN-SUFFIX,cursorapi.com,🔰节点选择
-  - DOMAIN-SUFFIX,gemini.google,🔰节点选择
-  - DOMAIN-SUFFIX,deepmind.google,🔰节点选择
-  - DOMAIN-SUFFIX,labs.google,🔰节点选择
-  - DOMAIN-SUFFIX,jules.google,🔰节点选择
-  - DOMAIN-SUFFIX,deepmind.com,🔰节点选择
-  - DOMAIN-SUFFIX,notebooklm.google,🔰节点选择
-  - DOMAIN-SUFFIX,generativeai.google,🔰节点选择
-  - DOMAIN-SUFFIX,groq.com,🔰节点选择
-  - DOMAIN-SUFFIX,copilot.microsoft.com,🔰节点选择
-  - DOMAIN-SUFFIX,makersuite.google.com,🔰节点选择
-  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,🔰节点选择
-  - DOMAIN-SUFFIX,aisandbox-pa.googleapis.com,🔰节点选择
-  - DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com,🔰节点选择
-  - DOMAIN-SUFFIX,notebooklm.google.com,🔰节点选择
-  - DOMAIN-SUFFIX,generativelanguage.googleapis.com,🔰节点选择
-  - DOMAIN-SUFFIX,bard.google.com,🔰节点选择
-  - DOMAIN-SUFFIX,geller-pa.googleapis.com,🔰节点选择
-  - DOMAIN-SUFFIX,jules.google.com,🔰节点选择
-  - DOMAIN-SUFFIX,gemini.google.com,🔰节点选择
-  - DOMAIN-SUFFIX,aistudio.google.com,🔰节点选择
-  - DOMAIN-SUFFIX,chatgpt.livekit.cloud,🔰节点选择
-  - DOMAIN-SUFFIX,host.livekit.cloud,🔰节点选择
-  - DOMAIN-SUFFIX,turn.livekit.cloud,🔰节点选择
-  - DOMAIN-SUFFIX,coderabbit.gallery.vsassets.io,🔰节点选择
-  - DOMAIN-SUFFIX,gateway.ai.cloudflare.com,🔰节点选择
-  - DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net,🔰节点选择
+  - DOMAIN,openaiapi-site.azureedge.net,🔰 节点选择
+  - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,🔰 节点选择
+  - DOMAIN,openaicomproductionae4b.blob.core.windows.net,🔰 节点选择
+  - DOMAIN,production-openaicom-storage.azureedge.net,🔰 节点选择
+  - DOMAIN,servd-anthropic-website.b-cdn.net,🔰 节点选择
+  - DOMAIN,ai.google.dev,🔰 节点选择
+  - DOMAIN,alkalicore-pa.clients6.google.com,🔰 节点选择
+  - DOMAIN,alkalimakersuite-pa.clients6.google.com,🔰 节点选择
+  - DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com,🔰 节点选择
+  - DOMAIN,pplx-res.cloudinary.com,🔰 节点选择
+  - DOMAIN,o33249.ingest.sentry.io,🔰 节点选择
+  - DOMAIN,openaicom.imgix.net,🔰 节点选择
+  - DOMAIN,browser-intake-datadoghq.com,🔰 节点选择
+  - DOMAIN-SUFFIX,claudemcpclient.com,🔰 节点选择
+  - DOMAIN-SUFFIX,perplexity.ai,🔰 节点选择
+  - DOMAIN-SUFFIX,coderabbit.ai,🔰 节点选择
+  - DOMAIN-SUFFIX,chutes.ai,🔰 节点选择
+  - DOMAIN-SUFFIX,cursor-cdn.com,🔰 节点选择
+  - DOMAIN-SUFFIX,diabrowser.com,🔰 节点选择
+  - DOMAIN-SUFFIX,dify.ai,🔰 节点选择
+  - DOMAIN-SUFFIX,meta.ai,🔰 节点选择
+  - DOMAIN-SUFFIX,mistral.ai,🔰 节点选择
+  - DOMAIN-SUFFIX,openart.ai,🔰 节点选择
+  - DOMAIN-SUFFIX,openrouter.ai,🔰 节点选择
+  - DOMAIN-SUFFIX,chatgpt.com,🔰 节点选择
+  - DOMAIN-SUFFIX,chat.com,🔰 节点选择
+  - DOMAIN-SUFFIX,oaistatic.com,🔰 节点选择
+  - DOMAIN-SUFFIX,oaiusercontent.com,🔰 节点选择
+  - DOMAIN-SUFFIX,openai.com,🔰 节点选择
+  - DOMAIN-SUFFIX,sora.com,🔰 节点选择
+  - DOMAIN-SUFFIX,x.ai,🔰 节点选择
+  - DOMAIN-SUFFIX,grok.com,🔰 节点选择
+  - DOMAIN-SUFFIX,pplx.ai,🔰 节点选择
+  - DOMAIN-SUFFIX,perplexity.com,🔰 节点选择
+  - DOMAIN-SUFFIX,cerebras.ai,🔰 节点选择
+  - DOMAIN-SUFFIX,huggingface.co,🔰 节点选择
+  - DOMAIN-SUFFIX,hf.co,🔰 节点选择
+  - DOMAIN-SUFFIX,poe.com,🔰 节点选择
+  - DOMAIN-SUFFIX,poecdn.net,🔰 节点选择
+  - DOMAIN-SUFFIX,anthropic.com,🔰 节点选择
+  - DOMAIN-SUFFIX,claude.ai,🔰 节点选择
+  - DOMAIN-SUFFIX,claude.com,🔰 节点选择
+  - DOMAIN-SUFFIX,claudeusercontent.com,🔰 节点选择
+  - DOMAIN-SUFFIX,jasper.ai,🔰 节点选择
+  - DOMAIN-SUFFIX,clipdrop.co,🔰 节点选择
+  - DOMAIN-SUFFIX,devin.ai,🔰 节点选择
+  - DOMAIN-SUFFIX,cursor.com,🔰 节点选择
+  - DOMAIN-SUFFIX,cursor.sh,🔰 节点选择
+  - DOMAIN-SUFFIX,cursorapi.com,🔰 节点选择
+  - DOMAIN-SUFFIX,gemini.google,🔰 节点选择
+  - DOMAIN-SUFFIX,deepmind.google,🔰 节点选择
+  - DOMAIN-SUFFIX,labs.google,🔰 节点选择
+  - DOMAIN-SUFFIX,jules.google,🔰 节点选择
+  - DOMAIN-SUFFIX,deepmind.com,🔰 节点选择
+  - DOMAIN-SUFFIX,notebooklm.google,🔰 节点选择
+  - DOMAIN-SUFFIX,generativeai.google,🔰 节点选择
+  - DOMAIN-SUFFIX,groq.com,🔰 节点选择
+  - DOMAIN-SUFFIX,copilot.microsoft.com,🔰 节点选择
+  - DOMAIN-SUFFIX,makersuite.google.com,🔰 节点选择
+  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,🔰 节点选择
+  - DOMAIN-SUFFIX,aisandbox-pa.googleapis.com,🔰 节点选择
+  - DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com,🔰 节点选择
+  - DOMAIN-SUFFIX,notebooklm.google.com,🔰 节点选择
+  - DOMAIN-SUFFIX,generativelanguage.googleapis.com,🔰 节点选择
+  - DOMAIN-SUFFIX,bard.google.com,🔰 节点选择
+  - DOMAIN-SUFFIX,geller-pa.googleapis.com,🔰 节点选择
+  - DOMAIN-SUFFIX,jules.google.com,🔰 节点选择
+  - DOMAIN-SUFFIX,gemini.google.com,🔰 节点选择
+  - DOMAIN-SUFFIX,aistudio.google.com,🔰 节点选择
+  - DOMAIN-SUFFIX,chatgpt.livekit.cloud,🔰 节点选择
+  - DOMAIN-SUFFIX,host.livekit.cloud,🔰 节点选择
+  - DOMAIN-SUFFIX,turn.livekit.cloud,🔰 节点选择
+  - DOMAIN-SUFFIX,coderabbit.gallery.vsassets.io,🔰 节点选择
+  - DOMAIN-SUFFIX,gateway.ai.cloudflare.com,🔰 节点选择
+  - DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net,🔰 节点选择
