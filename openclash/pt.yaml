@@ -135,7 +135,7 @@ payload:
     - +.agsvpt.trackers.work
     
     #keywords
-    *announce*
-    *torrent*
-    - +.smtp
+    - +/announce.+
+    - +/torrent/+
+    #- +.smtp.+
     
