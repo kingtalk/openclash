@@ -1,8 +1,11 @@
 payload:
-    - +.index.docker.io
-    - +.registry-1.docker.io
-    - +.auth.docker.io
-    - +.production.cloudflare.docker.com
-    - +.registry.docker.io
     - +.docker.com
-    - +.hub.docker.com
+    - +.docker.io
+   # - +.index.docker.io
+   # - +.registry-1.docker.io
+   # - +.auth.docker.io
+   # - +.production.cloudflare.docker.com
+   # - +.registry.docker.io
+
+   # - +.hub.docker.com
+
