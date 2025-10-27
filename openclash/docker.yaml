@@ -2,6 +2,7 @@ payload:
     - +.docker.com
     - +.docker.io
     - +.docker.+
+    - +.dockerhub1.beget.com
    # - +.index.docker.io
    # - +.registry-1.docker.io
    # - +.auth.docker.io
@@ -9,5 +10,6 @@ payload:
    # - +.registry.docker.io
    #docker.siteintercept.qualtrics.com
    # - +.hub.docker.com
+
 
 
