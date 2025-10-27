@@ -4,4 +4,5 @@ payload:
     - +.auth.docker.io
     - +.production.cloudflare.docker.com
     - +.registry.docker.io
+    - +.docker.com
     - +.hub.docker.com
