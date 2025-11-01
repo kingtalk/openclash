@@ -10,7 +10,7 @@ payload:
    # - +.registry.docker.io
    #docker.siteintercept.qualtrics.com
    # - +.hub.docker.com
-    - +.zh.z-lib.gd
+
 
 
 
