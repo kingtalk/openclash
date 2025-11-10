@@ -1,9 +1,16 @@
 payload:
     - +.bgm.tv
-    - +.zh.z-lib.gd
     - +.trakt.tv
     - +.sehuatang.org
     - +.pornhub.com
     - +.ipleak.net
     - +.dnsleaktest.com
     - +.mikanani.me
+    - +.zh.z-lib.gd
+    - +.z-library.ec
+    - +.z-library.gy
+    - +.z-library.hn
+    - +.z-library.la
+    - +.z-library.qa
+    - +.z-library.sk
+    - +.z-library-ru.se
