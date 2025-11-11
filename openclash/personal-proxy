@@ -14,4 +14,5 @@ payload:
     - +.z-library.qa
     - +.z-library.sk
     - +.z-library-ru.se
+    - +.s3proxy.cdn-zlib.sk
     - +.dln1.ncdn.ec
