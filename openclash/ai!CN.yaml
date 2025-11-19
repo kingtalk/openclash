@@ -22,6 +22,8 @@ payload:
     - +.notebooklm.google
     - +.cursor-cdn.com
     - +.grok.com
+    - +.auth.grokipedia.com
+    - +.auth.grokusercontent.com
     - +.cursor.sh
     - +.cursorapi.com
     - +.gemini.google
@@ -75,4 +77,5 @@ payload:
     - openaicom.imgix.net
     - browser-intake-datadoghq.com
     - +.sehuatang.org
+
 
